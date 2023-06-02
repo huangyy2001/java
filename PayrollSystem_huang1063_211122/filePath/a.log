@@ -1,0 +1,29 @@
+
+	@______________________________________@
+
+
+		  Wage-Book Report for the Company     
+
+
+	@______________________________________@
+
+Company: A
+EmployNo:   2	
+   	         FirstN	          LastN	            SSN	      GrossSale	           Rate	       Rarnings
+
+C-Employee	                 A	              a	              1	     123,455.00	           0.80	       98764.00
+C-Employee	                 B	              b	              2	     234,444.00	           0.90	      210999.60
+	@____________@
+
+
+Salary average for this week:154881.80
+
+Lowest Salary:98764.00	Name:A a
+Highest Salary:210999.60	Name:B b
+
+No. of emplyess who earned in each level:
+
+	A:   2
+	B:   0
+	C:   0
+

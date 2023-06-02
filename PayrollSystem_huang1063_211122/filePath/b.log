@@ -1,0 +1,29 @@
+
+	@______________________________________@
+
+
+		  Wage-Book Report for the Company     
+
+
+	@______________________________________@
+
+Company: a
+EmployNo:   2	
+   	         FirstN	          LastN	            SSN	     HourlyWage	          Hours	           Rate	       Rarnings
+
+H-Employee	                 A	              a	              1	      12,233.00	          20.00	           1.10	      244660.00
+H-Employee	                 B	              b	              2	     124,445.00	          20.00	           1.10	     2488900.00
+	@____________@
+
+
+Salary average for this week:1366780.00
+
+Lowest Salary:244660.00	Name:A a
+Highest Salary:2488900.00	Name:B b
+
+No. of emplyess who earned in each level:
+
+	A:   1
+	B:   0
+	C:   0
+

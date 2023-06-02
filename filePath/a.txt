@@ -1,0 +1,5 @@
+Company	a
+EmployeeNo	3
+H-Employee	                 a	              a	              1	       2,000.00	          12.00	           1.10	       24000.00
+H-Employee	                 b	              b	              2	       2,000.00	          16.00	           1.10	       32000.00
+H-Employee	                 c	              C	              3	       3,000.00	          16.00	           1.10	       48000.00
